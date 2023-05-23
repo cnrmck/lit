@@ -4,27 +4,27 @@ Lit - Git but the names of commands aren't garbage
 =========================================================
 This is the Git repository, but with commands that make sense.
 
-init -> start
-clone -> copy
-add -> track
-commit -> save
-push -> send
-fetch -> check
-pull -> update
-merge -> combine
-rebase -> sync
-checkout -> switch
-branch -> fork
-stash -> hold
-pop -> restore
-reset -> undo
-log -> history
-diff -> changes
-status -> state
-remote -> far
-tag -> mark
-bisect -> findbug
-cherry-pick -> copycommit
+- init -> start
+- clone -> copy
+- add -> track
+- commit -> save
+- push -> send
+- fetch -> check
+- pull -> update
+- merge -> combine
+- rebase -> sync
+- checkout -> switch
+- branch -> fork
+- stash -> hold
+- pop -> restore
+- reset -> undo
+- log -> history
+- diff -> changes
+- status -> state
+- remote -> far
+- tag -> mark
+- bisect -> findbug
+- cherry-pick -> copycommit
 
 
 TODO: Implement it
